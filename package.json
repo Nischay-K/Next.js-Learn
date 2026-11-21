@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "hello-world",
+=======
+  "name": "routing-demo",
+>>>>>>> 0cd5d7c4d91f48124540a0fa31340ec1943884e8
   "version": "0.1.0",
   "private": true,
   "scripts": {
